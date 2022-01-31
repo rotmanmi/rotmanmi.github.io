@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student in the School of Computer Science at Tel-Aviv University, where I am advised by [Lior Wolf](www.cs.tau.ac.il/~wolf/). In addition, I hold the role of a Research Scientist at GE Research AI Laboratory.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I hold an MS.c. in Physics from Tel-Aviv Univerity, where I was supervised by [Nissan Itzhaki](https://en-exact-sciences.tau.ac.il/profile/nitzhaki).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rotmanmi@post.tau.ac.il](mailto:rotmanmi@post.tau.ac.il)
