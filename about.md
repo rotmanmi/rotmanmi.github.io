@@ -13,7 +13,7 @@ I hold an MS.c. in Physics from Tel-Aviv Univerity, where I was supervised by [N
 1. M. Rotman, A. Dekel, S. Gur, Y. Oz, and L. Wolf. **Unsupervised disentanglement with tensor product representations  on  the  torus.**    International Conference on Learning Representations (ICLR), 2022
 2. M. Rotman  and  L.  Wolf.   **Natural  statistics  of  network  activations  and  implications  for knowledge distillation.**     International Conference on Image Processing (ICIP), 2021
 3. I. Reis, M. Rotman, D. Poznanski, J.X. Prochaska, and L. Wolf. **Effectively using unsupervised machine learning in next generation astronomical surveys.** Astronomy and Computing, 2021
-4. M. Rotman and L. Wolf.  **Shuffling recurrent neural networks. **AAAI Conference on Artificial Intelligence (AAAI), 2021
+4. M. Rotman and L. Wolf.  **Shuffling recurrent neural networks.** AAAI Conference on Artificial Intelligence (AAAI), 2021
 5. M. Rotman, R. Brada, I. Beniaminy, S. Ahn, C. J. Hardy, and L. Wolf.  **Correcting motion artifacts  in  MRI  scans  using  a  deep  neural  network  with  automatic  motion  timing  detection**.  In Medical Imaging 2021: Physics of Medical Imaging (SPIE), 2021
 6. M. Rotman and L. Wolf. **Electric analog circuit design with hypernetworks and a differential simulator**. International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020
 7. M. Rotman, I. Reis, D. Poznanski, and L. Wolf. **Detect the unexpected: Novelty detection in large astrophysical surveys using fisher vectors**. International Conference on Knowledge Discovery and Information Retrieval (KDIR), 2019
