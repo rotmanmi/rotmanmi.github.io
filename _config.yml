@@ -11,6 +11,8 @@ description: Research Scientist & Ph.D. Candidate
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/rotmanmi/rotmanmi.github.io/master/images/michael_image.jpg
 
+include: [_pages]
+
 #
 # Flags below are optional
 #
