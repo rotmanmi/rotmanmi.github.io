@@ -3,7 +3,7 @@ layout: page
 title: Michael Rotman
 permalink: /
 ---
-
+## Michael Rotman 
 I am a graduate student in the School of Computer Science at Tel-Aviv University, where I am advised
 by [Lior Wolf](https://www.cs.tau.ac.il/~wolf/). In addition, I hold the role of a Research Scientist at GE Research AI
 Laboratory.
