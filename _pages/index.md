@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Michael Rotman
+title: 
 permalink: /
 ---
 

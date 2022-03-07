@@ -1,5 +1,6 @@
 ---
-layout: page title: About and Publications 
+layout: page 
+title: About and Publications 
 permalink: /
 ---
 
