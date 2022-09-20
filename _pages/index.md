@@ -18,14 +18,14 @@ Laboratory.
 2. M. Rotman and L. Wolf.   **Natural statistics of network activations and implications for knowledge distillation.**
    International Conference on Image Processing (ICIP), 2021. Preliminary arXiv version [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/2106.00368)
 3. I. Reis, M. Rotman, D. Poznanski, J.X. Prochaska, and L. Wolf. **Effectively using unsupervised machine learning in
-   next generation astronomical surveys.** Astronomy and Computing, 2021.  [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/1911.06823)
+   next generation astronomical surveys.** Astronomy and Computing, 2021. Preliminary arXiv version [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/1911.06823)
 4. M. Rotman and L. Wolf.  **Shuffling recurrent neural networks.** AAAI Conference on Artificial Intelligence (AAAI),
    2021.[![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://ojs.aaai.org/index.php/AAAI/article/view/17136)
 5. M. Rotman, R. Brada, I. Beniaminy, S. Ahn, C. J. Hardy, and L. Wolf.  **Correcting motion artifacts in MRI scans
    using a deep neural network with automatic motion timing detection**. In Medical Imaging 2021: Physics of Medical
    Imaging (SPIE), 2021. Preliminary arXiv version  [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/2006.13804)
 6. M. Rotman and L. Wolf. **Electric analog circuit design with hypernetworks and a differential simulator**.
-   International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020 Preliminary arXiv version  [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/1911.03053)
+   International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020. Preliminary arXiv version  [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/1911.03053)
 7. M. Rotman, I. Reis, D. Poznanski, and L. Wolf. **Detect the unexpected: Novelty detection in large astrophysical
    surveys using fisher vectors**. International Conference on Knowledge Discovery and Information Retrieval (KDIR),
    2019.[![]({{site.baseurl}}/images/pdf-view_icon.gif)](http://www.scitepress.org/Papers/2019/81633/81633.pdf)
