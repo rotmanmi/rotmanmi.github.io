@@ -14,7 +14,7 @@ Laboratory.
 ## Publications
 
 1. M. Rotman, A. Dekel, S. Gur, Y. Oz, and L. Wolf. **Unsupervised disentanglement with tensor product representations
-   on the torus.**    International Conference on Learning Representations (ICLR), 2022. [paper](https://openreview.net/pdf?id=neqU3HWDgE)[![Foo]({{site.baseurl}}/images/pdf-view_icon.png)](http://google.com.au/)
+   on the torus.**    International Conference on Learning Representations (ICLR), 2022. [paper](https://openreview.net/pdf?id=neqU3HWDgE)[![Foo]({{site.baseurl}}/images/pdf-view_icon.gif)](http://google.com.au/)
 2. M. Rotman and L. Wolf.   **Natural statistics of network activations and implications for knowledge distillation.**
    International Conference on Image Processing (ICIP), 2021. [Preliminary arXiv version](https://arxiv.org/abs/2106.00368)
 3. I. Reis, M. Rotman, D. Poznanski, J.X. Prochaska, and L. Wolf. **Effectively using unsupervised machine learning in
