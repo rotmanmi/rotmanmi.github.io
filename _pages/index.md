@@ -6,8 +6,7 @@ permalink: /
 
 I am a graduate student in the School of Computer Science at Tel-Aviv University, where I am advised
 by [Lior Wolf](https://www.cs.tau.ac.il/~wolf/). I hold an MS.c. in Physics from Tel-Aviv University, where I was supervised
-by [Nissan Itzhaki](https://en-exact-sciences.tau.ac.il/profile/nitzhaki). In addition, I work as a Research Scientist at GE Research AI
-Laboratory.
+by [Nissan Itzhaki](https://en-exact-sciences.tau.ac.il/profile/nitzhaki). In addition, I work as an Applied Scientist at Amazon.
 
 
 
