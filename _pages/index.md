@@ -11,7 +11,8 @@ by [Nissan Itzhaki](https://en-exact-sciences.tau.ac.il/profile/nitzhaki). In ad
 
 
 ## Publications
-
+1. M. Rotman and L. Wolf. **Energy Regularized RNNs for Solving Non-Stationary Bandit Problems**.
+   International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 1. M. Rotman, A. Dekel, S. Gur, Y. Oz, and L. Wolf. **Unsupervised disentanglement with tensor product representations
    on the torus.**    International Conference on Learning Representations (ICLR), 2022. [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://openreview.net/pdf?id=neqU3HWDgE)
 2. M. Rotman and L. Wolf.   **Natural statistics of network activations and implications for knowledge distillation.**
