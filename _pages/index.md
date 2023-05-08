@@ -11,6 +11,7 @@ by [Nissan Itzhaki](https://en-exact-sciences.tau.ac.il/profile/nitzhaki). In ad
 
 
 ## Publications
+1. M. Rotman, A. Dekel, R. Ber, L. Wolf and Y. Oz. **Semi-supervised Learning of Partial Differential Operators and Dynamical Flows**, Uncertainty in Artificial Intelligence (UAI), 2023. Preliminary arXiv version [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/2207.14366)
 1. M. Rotman and L. Wolf. **Energy Regularized RNNs for Solving Non-Stationary Bandit Problems**.
    International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. Preliminary arXiv version [![]({{site.baseurl}}/images/pdf-view_icon.gif)](https://arxiv.org/abs/2303.06552) 
 1. E. Sheffi, M. Rotman and L. Wolf. **Gradient Adjusting Networks for Domain Inversion**.
