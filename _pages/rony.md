@@ -5,8 +5,8 @@ permalink: /rony
 ---
 
 
-<h2 style="text-align: right">האם רוני כבר ילדה?</h2>
+<h2 dir="rtl" style="text-align: right">האם רוני כבר ילדה?</h2>
 
-<h1 style="color: red; text-align: right">לא!!!</h1>
+<span dir="rtl" style="color: red; text-align: right; font-size: 10em;">לא!!!</span>
   
 
