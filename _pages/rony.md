@@ -4,11 +4,9 @@ title:
 permalink: /rony
 ---
 
-<p style="text-align:center;">
 
-<h2>האם רוני כבר ילדה?</h2>
+<h2 style="text-align: right">האם רוני כבר ילדה?</h2>
 
-<h1 style="color: red;">לא!!!</h1>
+<h1 style="color: red; text-align: right">לא!!!</h1>
   
 
-</p>
