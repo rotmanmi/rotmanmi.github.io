@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-I am an Applied Scientist at Amazon. I received my Ph.D. working with [Lior Wolf](https://www.cs.tau.ac.il/~wolf/) in the School of Computer Science at Tel-Aviv University. I hold an MS.c. in Physics from Tel-Aviv University, where I was supervised
+I am an Applied Scientist at Amazon. I received my Ph.D. working with [Lior Wolf](https://www.cs.tau.ac.il/~wolf/) in the School of Computer Science at Tel-Aviv University. I hold an M.Sc. in Physics from Tel-Aviv University, where I was supervised
 by [Nissan Itzhaki](https://en-exact-sciences.tau.ac.il/profile/nitzhaki). 
 
 
